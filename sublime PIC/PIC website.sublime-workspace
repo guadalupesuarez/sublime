@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title></title>\n</head>\n<body>\n\t<h1 align=\"center\">Programa de Implantes Cocleares</h1>\n<hr>\n\t\t<p align=\"center\">Contacto - Implantes Cocleares - Funcionamiento del programa - Marcas y represenantes en Uruguay</p>\n<hr>\n\t\t<img src=\"implante1.jpg\" alt=\"Niña con implante coclear\" align=\"left\">\n\t<h2>Acerca de nosotros</h2>\n\t\t<p>\tEl Programa de Implantes Cocleares (PIC) comenzó en Uruguay en 1991, siendo realizado el primer IC en un paciente adulto con una hipoacusia profunda secundaria a una meningitis. Esto fue precedido por un intenso trabajo en colaboración entre el Dr. Hamlet Suárez de la Facultad de Medicina y el Ing. Mario Svirsky PhD en la universidad de Indiana, USA. Se logró el soporte económico para el desarrollo del programa por parte de una subvención del BID/CONICYT.</p>\n\t\t<p> El objetivo fue desarrollar un programa para asistir personas con pérdidas auditivas profundas, generación de conocimientos entre otorrinolaringólogos, fonoaudiólogos, maestras especializadas y psicólogas con experticia en audiología avanzada, intervención especializada en desarrollo del lenguaje y aprendizaje y promover la investigación clínica en el área de la audición.</p>\n\t\t<p>El PIC es actualmente el único programa de implantes en Uruguay y se desarrolla de la mano de dos instituciones: por un lado el Centro Clínico de Otorrinolaringología (CECOR) conformado por el grupo de cirujanos que realizan los implantes en nuestro país (www.orl.com.uy) y el Centro de Re-Educación Auditiva y del Lenguaje CIPRES conformado por el equipo multidisciplinario dedicado a la rehabilitación y la re-educación de las personas implantadas y el equipo de audiólogas que se ocupan de la calibración y mapas auditivos de los pacientes.</p>\n</body>\n</html>",
+			"file": "/C/Users/toton/Downloads/sublime PIC.html",
+			"file_size": 1818,
+			"file_write_time": 132416186527097779,
+			"settings":
+			{
+				"buffer_size": 1775,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/toton/Downloads/sublime 26.05.2020/product.html",
+		"/C/Users/toton/Downloads/sublime 26.05.2020/style.css",
+		"/C/Users/toton/Downloads/sublime 26.05.2020/index.html",
+		"/C/Users/toton/Downloads/page1.html",
+		"/C/Users/toton/Downloads/sublime 26.05.2020/cutepuppyimg.jpeg"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/toton/Downloads/sublime PIC.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PIC website.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
