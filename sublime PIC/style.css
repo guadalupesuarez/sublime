@@ -1,0 +1,30 @@
+p{
+	color: #0D0D0D;
+	font-family: Georgia;
+}
+body{
+	background-color: #F2DAC4;
+}
+h1{
+	font-family: 'Merriweather', serif;
+	color: #121440
+}
+h3{
+	font-family: 'Merriweather', serif;
+	color: #121440
+}
+a{
+	font-family: 'Merriweather', serif;
+	color: #121440
+}
+a:hover{
+	font-family: 'Merriweather', serif;
+	color: #F20732
+}
+.test{
+	margin: 30px;
+}
+li{
+	color: #0D0D0D;
+	font-family: Georgia;
+}
